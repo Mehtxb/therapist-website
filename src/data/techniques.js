@@ -1,0 +1,15 @@
+export const techniques = [
+  "Flooding",
+  "Imagery",
+  "Logotherapy",
+  "Exposure therapy",
+  "Grounding practices",
+  "EMDR",
+  "CBT",
+  "CBT (ADHD & PTSD Focused)",
+  "Hypnotherapy",
+  "Yoga for Relaxation",
+  "Kriya Yoga",
+  "Guided Meditations",
+  "Creative Arts Therapy",
+];
